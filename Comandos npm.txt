@@ -1,0 +1,7 @@
+npm audit fix
+npm list
+npm list -g --depth 0
+npm fund
+npm install <paqueteQueNecesites>
+npm update <paqueteQueNecesites>
+npm uninstall <paqueteQueNecesites>
