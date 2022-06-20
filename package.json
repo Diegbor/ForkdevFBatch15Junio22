@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/Diegbor/ForkdevFBatch15Junio22#readme",
   "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
     "dotenv": "16.0.1",
+    "express": "^4.18.1",
     "xmlhttprequest": "1.8.0"
   }
 }

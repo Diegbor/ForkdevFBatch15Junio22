@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "nombre": "Pikachu",
+        "color": "Amarillo",
+        "habilidades":{
+            "habilidad1": "Estatica",
+            "habilidad2": "Pararrayos",
+            "cosas": [1,2,3,4,5]
+        },
+        "id pokemon": "jajaja"
+    },{
+        "id":2,
+        "nombre": "Charizard",
+        "color": "Naranja",
+        "habilidades":{
+            "habilidad1": "Mar Llamas",
+            "habilidad2": "Poder Solar",
+            "cosas": [1,2,3,4,5]
+        },
+        "id pokemon":"jejeje"
+    }
+]
